@@ -20,7 +20,7 @@ namespace DarkNaku.Haptic {
             }
         }
 
-#if UNITY_IOS
+#if UNITY_IOS && !UNITY_EDITOR
         [DllImport("__Internal")]
         private static extern void _TriggerHapticFeedback(int force);
 #endif

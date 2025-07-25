@@ -1,6 +1,6 @@
 {
   "name": "com.darknaku.haptic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Haptic",
   "description": "DarkNaku Haptic Package - This package helps you use the haptic features of your mobile device.",
   "unity": "2022.3",
